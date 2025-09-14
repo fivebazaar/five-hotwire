@@ -25,9 +25,6 @@ server_scripts {
 dependencies {
     'qb-core',
     'qb-vehiclekeys',
-    'ox_lib',
-    'ox_inventory'
+    'ox_lib
 }
-
-
 lua54 'yes'
