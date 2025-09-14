@@ -85,7 +85,7 @@ To add a new language, add a new JSON file to the `locales/` folder.
 ## 🎥 Preview & Support
 
 ### 📹 Demo Video
-[![Five Hotwire Demo](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/your-demo-video)
+[![Five Hotwire Demo](https://img.shields.io/badge/YouTube-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/eJ4FqzroEus)
 
 ### 💬 Community & Support
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord)](https://discord.gg/Dc6EVAUxu6)
